@@ -1,0 +1,111 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header{
+    width: 100%;
+    color: black;
+    font-size: 37px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    text-decoration: none;
+    
+}
+
+.header a{
+    text-decoration: none;
+    color: black;
+}
+
+.titPagina{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 45px;
+}
+
+main{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.letra{
+    font-size: 23px;
+
+}
+
+#titu{
+    width: 500px;
+    height: 30px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+
+#cate{
+    width: 500px;
+    height: 30px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+
+#desc{
+    width: 500px;
+    height: 60px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+
+#precQuan{
+    width: 215px;
+    height: 30px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+
+#precQuan{
+    width: 215px;
+    height: 30px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px ;
+}
+
+.dubleCol{
+    display: flex;
+    flex-direction: row ;
+    gap: 60px;
+}
+
+button{
+    width: 500px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px ;
+    margin: 0;
+    margin-top: 30px;
+    height: 40px;
+}
+
+footer{
+    margin: 0;
+    width: 100%;
+    color: black;
+    font-size: 32px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    
+}

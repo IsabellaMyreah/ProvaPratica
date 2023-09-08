@@ -1,0 +1,29 @@
+GET http://localhost:5000
+
+###
+
+POST http://localhost:/5000
+    
+    {
+        "titulo": "fiomgrt",
+        "categoria": "frhe",
+        "descricao": "jif",
+        "preco": "65",
+        "disponibilidade" : "huis"
+    }
+
+###
+
+PUT http://localhost:/5000/id/
+
+    {
+        "titulo": ,
+        "categoria": ,
+        "descricao":,
+        "preco":,
+        "disponibilidade":
+    }
+
+###
+
+DELETE http://localhost:/5000/id/
